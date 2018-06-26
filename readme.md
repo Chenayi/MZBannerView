@@ -93,7 +93,7 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-         compile 'com.github.pinguo-zhouwei:MZBannerView:v2.0.2'
+         implementation 'com.github.Chenayi:MZBannerView:v2.0.3'
 }
 ```
 
